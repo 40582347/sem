@@ -8,6 +8,7 @@ Work Flow Updated
 
 [![Releases](https://img.shields.io/github/release/40582347/sem/all.svg?style=flat-square)](https://github.com/40582347/sem/releases)
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/40582347/sem/main?branch=develop)
 
 
 
